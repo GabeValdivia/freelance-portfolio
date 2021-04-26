@@ -4,14 +4,14 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Gabe Valdivia | Web Developer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'WordPress, JAMSTACK, UI', // e.g: Welcome to my website
+  description: 'Welcome to my website', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Web Developer',
   name: 'Gabriel Valdivia',
-  subtitle: 'WordPress, JAMSTACK, UI',
+  subtitle: 'WordPress, Gatsby, Custom',
   cta: 'Available!',
 };
 
