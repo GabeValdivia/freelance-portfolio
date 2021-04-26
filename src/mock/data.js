@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Web Developer',
   name: 'Gabriel Valdivia',
-  subtitle: 'JAMSTACk, WordPress',
+  subtitle: 'WordPress, JAMSTACK, UI',
   cta: 'Available!',
 };
 
