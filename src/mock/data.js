@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Web Developer',
   name: 'Gabriel Valdivia',
-  subtitle: 'WordPress, WooCommerce, Genesis',
+  subtitle: 'WordPress, WooCommerce, UI',
   cta: 'Available!',
 };
 
