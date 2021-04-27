@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I’ve been working as a front-end web developer for 7 years now, 9 if you count 2 years of Graphic Web Design at DeVry University. I’ve worked as a front-end developer for various creative agencies in Portland, Oregon, and have a background in fronted web development and coding sites from scratch using Foundation & Bootstrap.',
+    'I’ve been working as a front-end web developer for 7 years now, 9 if you count 2 years of Graphic Web Design at DeVry University. I’ve worked as a front-end developer for various creative agencies in Portland, Oregon, and have a background in front-end web development and coding sites from scratch using Foundation & Bootstrap.',
   paragraphTwo:
     'My mainstay is freelance work for other creative agencies. I have worked for various award-winning marketing agencies and small business owners and other clients that like to keep a low profile.',
   paragraphThree:
